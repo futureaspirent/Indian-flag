@@ -1,0 +1,41 @@
+
+.orange{
+    width: 300px;
+    height: 100px;
+    background-color: orangered;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.white{
+background-color: white;
+width:600px;
+height:100px;
+position:relative;
+margin-left:30px ;
+}
+#chakra{
+border-radius: 50%;
+position: absolute;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+top: 0%;
+left:100px;
+}
+.green{
+background-color:green;
+width:300px;
+height:100px;
+position:relative;
+margin-left: 30px;
+}
+h1{
+    text-align: left;
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 24px;
+}
+
